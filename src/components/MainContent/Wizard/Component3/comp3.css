@@ -1,0 +1,62 @@
+/* comp3.css */
+
+.component3 {
+  margin-top: 20%;
+  text-align: left;
+}
+
+.button-group {
+  display: flex; /* Added to make the buttons appear in a row */
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.option-button {
+  padding: 0.5rem 1rem;
+  border: 0;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 5px;
+  width: 200px;
+  margin: 4px;
+  background-color: transparent;
+  color: #333;
+}
+
+.yes {
+  border: green solid 1px;
+}
+
+.no {
+  border: red solid 1px;
+}
+
+.selected-yes {
+  background-color: green;
+  color: #fff;
+}
+
+.selected-no {
+  background-color: red;
+  color: #fff;
+}
+
+.save-button {
+  background-color: red;
+  border: 0;
+  padding: 0.5rem;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-right: 1rem;
+}
+
+.prev-button {
+  background-color: yellow;
+  border: 0;
+  padding: 0.5rem;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 5px;
+}

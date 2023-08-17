@@ -1,0 +1,32 @@
+/* comp2.css */
+
+.component2 {
+    margin-top: 20%;
+    text-align: left;
+  }
+  
+  .input-box {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%; /* Or set a specific width, as needed */
+    font-size: 16px; /* Or any desired font size */
+    margin-bottom: 10px; /* Add some space between the input boxes */
+  }
+  
+  .save-button {
+    background-color: red;
+    border: 0;
+    padding: 0.5rem;
+    margin-top: 2rem;
+    cursor: pointer;
+  }
+  
+  .prev-button {
+    background-color: yellow;
+    border: 0;
+    padding: 0.5rem;
+    margin-right: 1rem;
+    cursor: pointer;
+  }
+  
